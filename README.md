@@ -10,7 +10,6 @@ npm run serve
 ```
 
 ### Live Demo
-```
-You can [See Live](https://khachapuridze.github.io/Resume/)
 
-```
+You can [See Live](https://khachapuridze.github.io/Resume/).
+
